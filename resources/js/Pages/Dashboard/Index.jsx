@@ -378,7 +378,7 @@ export default function Dashboard({
                     />
                 </div> */}
 
-                {/* Secondary Stats */}
+                Secondary Stats
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                     <InfoCard
                         title="Total Kategori"
